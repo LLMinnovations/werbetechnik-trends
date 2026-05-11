@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-05-04](reports/2026-05-04.md)
+**Letzter Report**: [2026-05-11](reports/2026-05-11.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Neon-Revival 2.0** — Feines Ambient-Neon als atmosphärisches Markenelement statt greller Reklame
-2. **3D-Channel-Letters** — Dreidimensionale Fassadenbuchstaben dominieren TikTok-Handwerk-Content
-3. **Metallic- & Satin-Chrom-Folierung** — Luxuswraps in Burnished Bronze, Gunmetal & Co. viral auf TikTok
-4. **Behind-the-Scenes Handwerk** — Authentische Prozessvideos als organische Reichweitenstrategie
-5. **Atmosphärisches Indoor Signage** — Büros und Markenräume als gestaltetes Markenerlebnis
+1. **Chameleon & Color-Shift** — Farbwechsel-Vinyl als meistgefragtes Folierungs-Upgrade 2026
+2. **Soft-Neon / Pastell-LED-Neon** — Warme, gedämpfte Neonröhren für Schaufenster und Gastronomie
+3. **Halo-Effekt / Backlit 3D-Buchstaben** — Fassadenbuchstaben mit indirektem Wandlicht, TikTok-viral
+4. **„Quiet Flex" Minimalismus** — Reduzierte, hochwertige Ästhetik für Premiumsegment
+5. **Indoor Brand Experience** — Empfangsbereiche und Bürowände als Marken-Gesamterlebnis
 
 ### Produkte
-1. **PVC-freie & recycelbare Folien** — Regulatorisch notwendig ab Sept. 2026 (EU-Greenwashing-Richtlinie)
-2. **Laser-Graviermaschinen für KMU** — Kompakte Desktop-Laser als Einstieg in Personalisierungs-Umsatz
-3. **E-Paper Digital Signage** — Bis zu 70% Energieersparnis, kabellos, KfW-förderfähig
-4. **Cloud-gesteuerte LED-Schilder** — Fernzugriff, Echtzeit-Anpassung, wartungsarm
-5. **DOOH-Stelen & Outdoor-Totem-Displays** — DOOH-Markt +22% vs. 2025, günstigere KMU-Geräte verfügbar
+1. **LED Flex-Neon-Röhren** — TikTok-Millionenreichweite, günstig, margenstark
+2. **Chameleon/Color-Shift Vinyl** — Schnellstwachsendes Foliensegment 2026
+3. **PVC-freie Folien & wasserbasierte Tinten** — Regulatorisch relevant ab Herbst 2026, starker Kundenfokus
+4. **KI-gestützte Digital Signage** — Cloud-Personalisierung als Managed-Service-Chance für KMU
+5. **Cloud-gesteuerte Animated-LED-Schilder** — App-Ansteuerung, Abo-Modell, laufende Einnahmen
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|------|
+| 2026-05-11 | KW20 | [Report](reports/2026-05-11.md) |
 | 2026-05-04 | KW19 | [Report](reports/2026-05-04.md) |
 
 ---
