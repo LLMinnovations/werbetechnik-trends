@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-05-11](reports/2026-05-11.md)
+**Letzter Report**: [2026-05-18](reports/2026-05-18.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Chameleon & Color-Shift** — Farbwechsel-Vinyl als meistgefragtes Folierungs-Upgrade 2026
-2. **Soft-Neon / Pastell-LED-Neon** — Warme, gedämpfte Neonröhren für Schaufenster und Gastronomie
-3. **Halo-Effekt / Backlit 3D-Buchstaben** — Fassadenbuchstaben mit indirektem Wandlicht, TikTok-viral
-4. **„Quiet Flex" Minimalismus** — Reduzierte, hochwertige Ästhetik für Premiumsegment
-5. **Indoor Brand Experience** — Empfangsbereiche und Bürowände als Marken-Gesamterlebnis
+1. **Color-Shift & Chameleon-Vinyl** — Farbwechsel-Folie ist das meistgetaggte Thema auf TikTok-Wrap-Kanälen in KW21
+2. **Bold Typography / Anti-Design** — Übergroße, bewusst unperfekte Schriften als Gegenbewegung zur KI-Ästhetik
+3. **Halo-Backlit 3D-Buchstaben** — Fassadenbuchstaben mit indirektem Wandlicht, weiterhin TikTok-viral in DACH
+4. **Soft-Neon / Pastell-LED** — Gedämpfte, warme Neon-Töne für Gastronomie und Lifestyle-Retail
+5. **Retro-Revival mit modernem Twist** — Nostalgie-Designs neu interpretiert, stabil wachsend
 
 ### Produkte
-1. **LED Flex-Neon-Röhren** — TikTok-Millionenreichweite, günstig, margenstark
-2. **Chameleon/Color-Shift Vinyl** — Schnellstwachsendes Foliensegment 2026
-3. **PVC-freie Folien & wasserbasierte Tinten** — Regulatorisch relevant ab Herbst 2026, starker Kundenfokus
-4. **KI-gestützte Digital Signage** — Cloud-Personalisierung als Managed-Service-Chance für KMU
-5. **Cloud-gesteuerte Animated-LED-Schilder** — App-Ansteuerung, Abo-Modell, laufende Einnahmen
+1. **LED Flex-Neon Pixel (DMX512)** — Vollständig individuell ansteuerbar, Standardformat 6×12 mm etabliert
+2. **PVC-freie Hochleistungsfolien** — UWG-Novelle Sept. 2026 macht Greenwashing strafbar — jetzt Zertifikate sichern
+3. **Thermochrome & Color-Flip-Vinyl** — Schnellstwachsendes Foliensegment, TikTok treibt Konsumentennachfrage
+4. **UV-Flatbed-Drucker** — Direktdruck auf fast jedes Material, Einstieg jetzt auch für Solo-Selbstständige
+5. **KI-gestütztes Digital Signage** — Automatische Content-Anpassung als Managed-Service-Abo für KMU
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|------|
+| 2026-05-18 | KW21 | [Report](reports/2026-05-18.md) |
 | 2026-05-11 | KW20 | [Report](reports/2026-05-11.md) |
 | 2026-05-04 | KW19 | [Report](reports/2026-05-04.md) |
 
