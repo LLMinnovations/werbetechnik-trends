@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-06-08](reports/2026-06-08.md)
+**Letzter Report**: [2026-06-15](reports/2026-06-15.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Satin-Finish als neue Basisfarben-Kategorie** — Satin verdrängt Hochglanz und Vollmatt als Standardantwort im Vehicle Wrapping; Satin Cement Gray ist die meistgefragte Einzelfarbe H2/2026
-2. **Chameleon / Color-Shift Wrap** — Farbwechselfolie mit 20–40 % Preisprämie; auf TikTok viral, besonders stark für E-Auto-Besitzer
-3. **TikTok Creator-Backdrop Neon** — Custom-LED-Neon als Personal-Branding-Element für Streamer, Podcaster und Creator; neues Kundensegment für Werbetechnik-Betriebe
-4. **Brushed Gold & Oxidiertes Messing in 3D-Beschriftung** — Warme Metalloberflächen als Premium-Signal bei Fassadenbeschriftung und Türschildern
-5. **Warm Burnt Orange & Terra Cotta** — Neue Saison-Akzentfarbe 2026 in Fahrzeugfolie und Schaufenstergestaltung neben den dominierenden Erd- und Grüntönen
+1. **Alcantara Interior Wrapping** — Innenraum-Veredelung mit Wildleder-Vinyl explodiert auf TikTok; neues Hochmarge-Segment für Folierungsbetriebe
+2. **„Reali-Tea" BTS-Content für Signmaker** — TikTok's 2026-Leittrend belohnt rohe Werkstatt-Videos; Auftragskanal für Solo-Betriebe ohne Werbebudget
+3. **Chrome & Spiegel-Folie Comeback** — Mirror-Wrap kehrt als Statussymbol zurück; überdurchschnittliche Views auf TikTok dank Spiegeleffekt im Video
+4. **Frosted-Glass / Milchglas-Ästhetik** — Sichtschutz-Folie als Designelement in Schaufenstern und Büros; schnell umsetzbar, hohe Kundennachfrage
+5. **Retro-Signage / Vintage Neon Revival** — 70s/80s-Ästhetik mit moderner LED-Technik; Gastronomie-Eröffnungen als Haupttreiber
 
 ### Produkte
-1. **Flottenbeklebung-Boom — EU-Pflicht Juli 2026** — Neue Markierungsvorschriften für Nutzfahrzeuge erzeugen jetzt Nachfrageschub; Zeitfenster für Akquise im Handwerkssegment
-2. **Chameleon / Color-Shift Vinyl** — High-Margin-Wrap-Produkt 2026; 20–40 % Preisprämie; Avery Dennison SW900 und 3M 1080 mit neuen Varianten
-3. **Micro-COB LED-Videowände** — Segment-Umsatz verdoppelt 2026; 40 % Stromersparnis vs. SMD; Pixelpitch ab 0,7 mm (Planar Komodo-Serie)
-4. **PVC-freie Substrate als Branchenstandard** — Preisgleich zu PVC, EU-Greenwashing-Richtlinie Sept. 2026 als Regulierungstreiber
-5. **Programmatisches DOOH — 44 % Marktanteil DE** — +22,4 % Marktwachstum; Retail-Media-Boom durch OBI, REWE, Edeka; neues Integratoren-Geschäft
+1. **Kompakte UV-LED Flatbed-Drucker** — Roland, IMAGO Aquila; Direktdruck auf Glas/Acryl/Holz für Solo-Betriebe ab ca. 5.000 €; kurze Amortisation
+2. **Transparent OLED (NRF 2026)** — Duggal 77"-Display macht Technologie marktreif sichtbar; Schaufenster ohne Tageslicht-Verlust
+3. **Milchglas-Plotterfolie (AD220)** — Platzhirsch unter den günstigen Sichtschutz-Materialien; kein Maschinenupgrade nötig
+4. **KI-Schaufenster-Konfiguratoren** — Adobe Firefly / Canva AI; Mockup in Sekunden statt Stunden; stärkstes Produktivitätsargument für KMU
+5. **NFC-Sticker in Schildern** — unter 1 € je Stück, interaktive Verlinkung; perfekter Upsell bei jeder neuen Beschilderung
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-06-15 | KW25 | [Report](reports/2026-06-15.md) |
 | 2026-06-08 | KW24 | [Report](reports/2026-06-08.md) |
 | 2026-06-01 | KW23 | [Report](reports/2026-06-01.md) |
 | 2026-05-25 | KW22 | [Report](reports/2026-05-25.md) |
