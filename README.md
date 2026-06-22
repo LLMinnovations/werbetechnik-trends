@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-06-15](reports/2026-06-15.md)
+**Letzter Report**: [2026-06-22](reports/2026-06-22.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Alcantara Interior Wrapping** — Innenraum-Veredelung mit Wildleder-Vinyl explodiert auf TikTok; neues Hochmarge-Segment für Folierungsbetriebe
-2. **„Reali-Tea" BTS-Content für Signmaker** — TikTok's 2026-Leittrend belohnt rohe Werkstatt-Videos; Auftragskanal für Solo-Betriebe ohne Werbebudget
-3. **Chrome & Spiegel-Folie Comeback** — Mirror-Wrap kehrt als Statussymbol zurück; überdurchschnittliche Views auf TikTok dank Spiegeleffekt im Video
-4. **Frosted-Glass / Milchglas-Ästhetik** — Sichtschutz-Folie als Designelement in Schaufenstern und Büros; schnell umsetzbar, hohe Kundennachfrage
-5. **Retro-Signage / Vintage Neon Revival** — 70s/80s-Ästhetik mit moderner LED-Technik; Gastronomie-Eröffnungen als Haupttreiber
+1. **Matte Black Vollfolierung** — meistgesuchte Wrap-Farbe 2026; Stealth-Look dominiert TikTok-Reveal-Content mit konstant hohen Views
+2. **Farbiges PPF (Colored Paint Protection Film)** — Schutz + Farbe in einem; stärkster Produkttrend im Wrap-Segment laut Spandex & carlikefilm.com
+3. **Bold Typography / Brutalismus im Schaufenster** — übergroße Schrift als Hauptelement; Gegenreaktion auf KI-Bildflut, stark auf TikTok
+4. **Programmatic DOOH für KMU** — Deutschland DOOH +22,4 % YoY; 40 % programmatisch buchbar; neuer Sichtbarkeitskanal auch für kleine Betriebe
+5. **Satin Olive & Military Green Wrap** — stärkste Erdton-Wachstumsfarbe 2026; Off-Road-meets-Urban für SUV und Transporter
 
 ### Produkte
-1. **Kompakte UV-LED Flatbed-Drucker** — Roland, IMAGO Aquila; Direktdruck auf Glas/Acryl/Holz für Solo-Betriebe ab ca. 5.000 €; kurze Amortisation
-2. **Transparent OLED (NRF 2026)** — Duggal 77"-Display macht Technologie marktreif sichtbar; Schaufenster ohne Tageslicht-Verlust
-3. **Milchglas-Plotterfolie (AD220)** — Platzhirsch unter den günstigen Sichtschutz-Materialien; kein Maschinenupgrade nötig
-4. **KI-Schaufenster-Konfiguratoren** — Adobe Firefly / Canva AI; Mockup in Sekunden statt Stunden; stärkstes Produktivitätsargument für KMU
-5. **NFC-Sticker in Schildern** — unter 1 € je Stück, interaktive Verlinkung; perfekter Upsell bei jeder neuen Beschilderung
+1. **DTF-Druck (Direct to Film)** — FESPA 2026 bestätigt als neuer Standard für textile Werbemittel; Einstieg ab ca. 2.500 € Desktop-System
+2. **PET-Folien als PVC-Ersatz** — EU-Greenwashing-Richtlinie Sept. 2026 beschleunigt Substitution; Preise jetzt auf PVC-Niveau
+3. **LED-Transparentfolie (Reefilm / Muxwave)** — CSFC 2026 Award; 95 % Transparenz; Schaufenster-Display ohne sichtbaren Rahmen
+4. **E-Paper Color Signage (E Ink Spectra 6)** — InfoComm 2026 Highlight; kabelloses Türschild, batteriebetrieben, bis 10 Jahre Laufzeit
+5. **Fiber-Laser für Metall-Gravur** — Einstieg jetzt unter 2.000 €; Edelstahl-Klingelschilder & Alu-Gravur als neues Hochmarge-Produkt
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-06-22 | KW26 | [Report](reports/2026-06-22.md) |
 | 2026-06-15 | KW25 | [Report](reports/2026-06-15.md) |
 | 2026-06-08 | KW24 | [Report](reports/2026-06-08.md) |
 | 2026-06-01 | KW23 | [Report](reports/2026-06-01.md) |
