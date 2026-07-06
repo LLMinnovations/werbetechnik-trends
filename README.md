@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-06-22](reports/2026-06-22.md)
+**Letzter Report**: [2026-07-06](reports/2026-07-06.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Matte Black Vollfolierung** — meistgesuchte Wrap-Farbe 2026; Stealth-Look dominiert TikTok-Reveal-Content mit konstant hohen Views
-2. **Farbiges PPF (Colored Paint Protection Film)** — Schutz + Farbe in einem; stärkster Produkttrend im Wrap-Segment laut Spandex & carlikefilm.com
-3. **Bold Typography / Brutalismus im Schaufenster** — übergroße Schrift als Hauptelement; Gegenreaktion auf KI-Bildflut, stark auf TikTok
-4. **Programmatic DOOH für KMU** — Deutschland DOOH +22,4 % YoY; 40 % programmatisch buchbar; neuer Sichtbarkeitskanal auch für kleine Betriebe
-5. **Satin Olive & Military Green Wrap** — stärkste Erdton-Wachstumsfarbe 2026; Off-Road-meets-Urban für SUV und Transporter
+1. **Retro-Neon Revival mit LED-Technologie** — LED-Neon in Retro-Glasröhren-Optik explodiert auf TikTok; perfekt für Gastronomie, Bars und Studios als umsatzstarkes Produkt
+2. **Matte Chrome & Color-Shift Folierung** — Irisierend-schimmernde Farbwechselfolien als neuer TikTok-Reveal-Magnet; Oracal 970RA Color-Shift meistverkaufter Wrap-Typ
+3. **Lila / Violett Metallic als Next-Big-Wrap-Farbe** — Nach Jahren der Erdtöne bricht Violett Metallic als Kontrastfarbe durch; Avery Dennison hat neue Kollektion lanciert
+4. **3D-Buchstaben mit Halo-Backlight-Effekt** — Dimensionale Fassadenbuchstaben mit LED-Rückbeleuchtung als Premium-Alternative zum Leuchtkasten; Hauptthema European Sign Expo 2026
+5. **Vertikales Format (9:16) für Digital Signage** — TikTok-ähnliche Hochformat-Screens als Schaufenster-Display; Content-Recycling von Social Media auf Instore-Screens
 
 ### Produkte
-1. **DTF-Druck (Direct to Film)** — FESPA 2026 bestätigt als neuer Standard für textile Werbemittel; Einstieg ab ca. 2.500 € Desktop-System
-2. **PET-Folien als PVC-Ersatz** — EU-Greenwashing-Richtlinie Sept. 2026 beschleunigt Substitution; Preise jetzt auf PVC-Niveau
-3. **LED-Transparentfolie (Reefilm / Muxwave)** — CSFC 2026 Award; 95 % Transparenz; Schaufenster-Display ohne sichtbaren Rahmen
-4. **E-Paper Color Signage (E Ink Spectra 6)** — InfoComm 2026 Highlight; kabelloses Türschild, batteriebetrieben, bis 10 Jahre Laufzeit
-5. **Fiber-Laser für Metall-Gravur** — Einstieg jetzt unter 2.000 €; Edelstahl-Klingelschilder & Alu-Gravur als neues Hochmarge-Produkt
+1. **Samsung EM32DX Color E-Paper** — 32" kabelloses E-Ink-Display mit 200-Tage-Akku und 0 W Ruheverbrauch; ~1.350 USD; iF Design Award 2026
+2. **LG Battery-Powered E-Paper Signage** — LG betritt E-Paper-Markt (Juni 2026); Wettbewerb treibt Preisverfall — jetzt als Early Adopter positionieren
+3. **UV-DTF Rub-On Sticker** — Revolutionäres Sticker-Format ohne Wärmepresse; auf Glas, Metall, Kunststoff; explodierendes Segment für Solo-Werbetechniker
+4. **PET-Folie als PVC-Ersatz** — Jetzt auf PVC-Preisniveau; EU-Greenwashing-Richtlinie Sept. 2026 macht Umstieg alternativlos
+5. **Fiber Laser (MOPA) unter 2.000 €** — Edelstahl-Gravur für Klingelschilder und Logoplatten als neues Hochmarge-Segment; Rabatte bis 3.200 €
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-07-06 | KW28 | [Report](reports/2026-07-06.md) |
 | 2026-06-22 | KW26 | [Report](reports/2026-06-22.md) |
 | 2026-06-15 | KW25 | [Report](reports/2026-06-15.md) |
 | 2026-06-08 | KW24 | [Report](reports/2026-06-08.md) |
@@ -39,7 +40,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 ---
 
 ## Methodik
-- **Quellen**: TikTok (Hashtag-Scans via Discover & Websuche), Google Trends DE (qualitativ), FESPA 2026 Barcelona, ISE 2026 Barcelona, InfoComm 2026 Orlando, InfoComm China 2026, Branchen-Websites und -Magazine
+- **Quellen**: TikTok (Hashtag-Scans via Discover & Websuche), Google Trends DE (qualitativ), FESPA 2026 Barcelona, European Sign Expo 2026, Samsung/LG Newsroom, invidis.de, maresmedia.se, fespa.com, Branchen-Websites
 - **Auswahl**: Top 10 Design-Trends + Top 10 Produkt-Trends
 - **Score**: 1–5 ⭐ basierend auf Wachstum, Reichweite, Umsetzbarkeit für DACH-KMU
 - **Zielgruppe**: Solo-Unternehmer + KMU im DACH-Raum (Außenwerbung, Beschilderung, Digital Signage, Druck, Folierung, LED, Leuchtwerbung, Schaufenstergestaltung, Vehicle Wrapping)
