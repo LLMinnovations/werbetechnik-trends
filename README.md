@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-07-06](reports/2026-07-06.md)
+**Letzter Report**: [2026-07-13](reports/2026-07-13.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Retro-Neon Revival mit LED-Technologie** — LED-Neon in Retro-Glasröhren-Optik explodiert auf TikTok; perfekt für Gastronomie, Bars und Studios als umsatzstarkes Produkt
-2. **Matte Chrome & Color-Shift Folierung** — Irisierend-schimmernde Farbwechselfolien als neuer TikTok-Reveal-Magnet; Oracal 970RA Color-Shift meistverkaufter Wrap-Typ
-3. **Lila / Violett Metallic als Next-Big-Wrap-Farbe** — Nach Jahren der Erdtöne bricht Violett Metallic als Kontrastfarbe durch; Avery Dennison hat neue Kollektion lanciert
-4. **3D-Buchstaben mit Halo-Backlight-Effekt** — Dimensionale Fassadenbuchstaben mit LED-Rückbeleuchtung als Premium-Alternative zum Leuchtkasten; Hauptthema European Sign Expo 2026
-5. **Vertikales Format (9:16) für Digital Signage** — TikTok-ähnliche Hochformat-Screens als Schaufenster-Display; Content-Recycling von Social Media auf Instore-Screens
+1. **Satin-Finish als neuer Wrap-Standard** — Satin hat Glanz als meistgefragte Wrap-Kategorie abgelöst; visuelle Tiefe ohne Pflegeaufwand von Matt — Musterset am Tresen ist Pflicht
+2. **Militärgrün / Olive als nächste große Wrap-Farbe** — Nach Matte-Black-Plateau jetzt Military Green in Top 5 aller Profi-Studios; besonders stark für Handwerker-Transporter und Geländefahrzeuge
+3. **Two-Tone / Bicolor Fahrzeugfolierung** — Kontrastierendes Dach oder Spiegel als günstiges Einstiegspaket mit maximalem visuellem Impact und hohem Upselling-Potenzial
+4. **Organische Formen & Handgezeichnete Elemente** — Weiche Konturen, Blob-Formen, handgezeichnete Ästhetik als Gegenbewegung zu KI-generierter Perfektion; Trend aus globalem Grafik-Design
+5. **„Quiet Retail" Elevated Minimalism** — Warme Materialien, natürliche Texturen, ruhige Atmosphäre für Schaufenster erhöhen Dwell-Time messbar; klinisches Weiß ist 2026 out
 
 ### Produkte
-1. **Samsung EM32DX Color E-Paper** — 32" kabelloses E-Ink-Display mit 200-Tage-Akku und 0 W Ruheverbrauch; ~1.350 USD; iF Design Award 2026
-2. **LG Battery-Powered E-Paper Signage** — LG betritt E-Paper-Markt (Juni 2026); Wettbewerb treibt Preisverfall — jetzt als Early Adopter positionieren
-3. **UV-DTF Rub-On Sticker** — Revolutionäres Sticker-Format ohne Wärmepresse; auf Glas, Metall, Kunststoff; explodierendes Segment für Solo-Werbetechniker
-4. **PET-Folie als PVC-Ersatz** — Jetzt auf PVC-Preisniveau; EU-Greenwashing-Richtlinie Sept. 2026 macht Umstieg alternativlos
-5. **Fiber Laser (MOPA) unter 2.000 €** — Edelstahl-Gravur für Klingelschilder und Logoplatten als neues Hochmarge-Segment; Rabatte bis 3.200 €
+1. **UV-Decalpro Ultra — trägerfrei, randlos** — Pflichtiger EU-REACH-Tintenwechsel 2026 erzwingt Umrüstung; Nachfolger bringt ultraflachen kantenlosen Aufkleber als echten Produktvorteil
+2. **Retail Media DOOH Instore-Screens** — REWE, Lidl, OBI rüsten 2026 flächendeckend aus; lokale Installations- und Wartungsaufträge für Werbetechniker jetzt verfügbar
+3. **GOB-LED-Module für Outdoor-Screens** — Glue-on-Board-Beschichtung reduziert Reklamationen und Serviceeinsätze deutlich; neuer Qualitätsstandard für Outdoor-Installationen
+4. **PVC-freie Eco-Folien als Pflichtstandard** — Auf PVC-Preisniveau + EU-Greenwashing-Richtlinie Sept. 2026: kein Argument mehr gegen den Wechsel; jetzt als USP kommunizieren
+5. **Color-Shift Spezialfolien Lila-Teal & Smaragd-Gold** — Meist bestellte Color-Shift-Kombis 2026; TikTok-Reveal-Videos mit diesen Farben generieren organisch überdurchschnittliche Views
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-07-13 | KW29 | [Report](reports/2026-07-13.md) |
 | 2026-07-06 | KW28 | [Report](reports/2026-07-06.md) |
 | 2026-06-22 | KW26 | [Report](reports/2026-06-22.md) |
 | 2026-06-15 | KW25 | [Report](reports/2026-06-15.md) |
