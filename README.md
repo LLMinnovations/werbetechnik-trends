@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-07-20](reports/2026-07-20.md)
+**Letzter Report**: [2026-07-27](reports/2026-07-27.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Chrome Dual-Color Shift — Purple-Teal & Emerald-Gold** — Stärkste Wrap-Kategorie im Juli 2026; Reveal-Videos auf TikTok performen organisch ohne Ads; Chrome & Color-Shift jetzt einlagern
-2. **TikTok-Backdrop-Neon** — Gastronomie und Einzelhandel kaufen gezielt LED-Neon als Kunden-Selfie-Backdrop; 1.800+ Units/Monat auf TikTok-Shop; B2B-Paketangebot für Barbershops/Cafés ist sofort umsetzbar
-3. **Midnight Purple als Signature-Farbe 2026** — Lila löst Militärgrün als nächste große Wrap-Farbe ab; Top-3-Nachfrage bei professionellen Studios weltweit
-4. **Soft Halo Lighting bei Leuchtbuchstaben** — Sanfte Rückbeleuchtung statt maximaler Helligkeit; Premium-Kunden fragen aktiv nach atmosphärischen Lösungen
-5. **Textur-Signage & Dimensional Printing** — Haptische, dreidimensionale Schilder differenzieren von Online-Druckereien; Direct-to-Object-Druck als KMU-Werkzeug
+1. **Satin ist das neue Matte** — Satin-Finish hat Matte als meistgefragte Folienkategorie überholt; Satin fotografiert besser, ist pflegeleichter und erzielt Premiumpreis
+2. **Dual-Color & Chameleon Shift** — Dual-Color-Folien mit zwei dominanten Farben je nach Lichtwinkel sind die stärkste Wachstumskategorie 2026; viraler TikTok-Content inklusive
+3. **LED-Neon als Social-Media-Backdrop** — 71 % der Gen Z teilen Fotos von Geschäften mit Neon; +23 % Suchinteresse YoY April 2026; B2B-Paketangebot für Gastro/Barbershop sofort umsetzbar
+4. **Erden & Wärme — Mocha, Terrakotta** — Pantone Mocha Mousse & warme Erdtöne setzen sich in Außenwerbung und Fahrzeugfolierung fort
+5. **Transformation-Content auf TikTok** — Vorher/Nachher-Format höchste organische Reichweite für Handwerksbetriebe; kein Budget nötig, nur ein Stativ
 
 ### Produkte
-1. **Transparente Mesh-LED-Screens** — CAGR 30–36 %; Schaufenster wird zum Nacht-Display; Markt $5–6 Mrd. 2026; Einstieg für KMU-Installationen jetzt realistisch
-2. **Chrome & Color-Shift Spezialfolien** — Stärkste Wachstumskategorie im Wrap-Markt 2026; Premiumpreis (+40–60 %), viraler Content-Effekt inklusive
-3. **Direct-to-Object (DTO) Druck** — UV-Flachbett druckt 3D-Objekte direkt; klare Differenzierung von Online-Wettbewerb; neue Gerätegeneration 2025/2026 senkt Einstieg
-4. **Chip-on-Glass (COG) LED** — ISE-2026-Top-Technologie; kommt 2027–2028 in KMU-Reichweite; jetzt Weiterbildung sichert Frühstarter-Vorteil
-5. **Cloud-CMS für Digital Signage** — Recurring Revenue durch Screen-Installation + CMS-Abo + Content-Service; Standard für neue DOOH-Installationen 2026
+1. **Mimaki UJV200-Serie** — Neuer UV-Roll-to-Roll-Drucker ab April 2026 verfügbar; bringt Weiß/Transparenttinten-Druck in KMU-Reichweite
+2. **Satin & Dual-Color Vinylfolien** — Lager jetzt auffüllen: stärkste Wachstumskategorie, Premiumpreis +40–60 % durchsetzbar
+3. **Cloud-CMS für Digital Signage** — 78 % aller neuen Screens laufen cloud-basiert; Screen + CMS-Abo = stabiler Recurring Revenue für Installateure
+4. **PVC-freie & nachhaltige Materialien** — Erste EU-Hauptstadt verbietet PVC-Bannerwerbung ab Jan. 2026; B2B-Kunden fragen Nachweise aktiv nach
+5. **Transparente LED-Mesh-Displays** — CAGR 30–36 %; Schaufenster wird zum Nacht-Display; KMU-Einstieg realistisch
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-07-27 | KW31 | [Report](reports/2026-07-27.md) |
 | 2026-07-20 | KW30 | [Report](reports/2026-07-20.md) |
 | 2026-07-13 | KW29 | [Report](reports/2026-07-13.md) |
 | 2026-07-06 | KW28 | [Report](reports/2026-07-06.md) |
