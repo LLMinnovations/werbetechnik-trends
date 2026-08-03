@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-07-27](reports/2026-07-27.md)
+**Letzter Report**: [2026-08-03](reports/2026-08-03.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Satin ist das neue Matte** — Satin-Finish hat Matte als meistgefragte Folienkategorie überholt; Satin fotografiert besser, ist pflegeleichter und erzielt Premiumpreis
-2. **Dual-Color & Chameleon Shift** — Dual-Color-Folien mit zwei dominanten Farben je nach Lichtwinkel sind die stärkste Wachstumskategorie 2026; viraler TikTok-Content inklusive
-3. **LED-Neon als Social-Media-Backdrop** — 71 % der Gen Z teilen Fotos von Geschäften mit Neon; +23 % Suchinteresse YoY April 2026; B2B-Paketangebot für Gastro/Barbershop sofort umsetzbar
-4. **Erden & Wärme — Mocha, Terrakotta** — Pantone Mocha Mousse & warme Erdtöne setzen sich in Außenwerbung und Fahrzeugfolierung fort
-5. **Transformation-Content auf TikTok** — Vorher/Nachher-Format höchste organische Reichweite für Handwerksbetriebe; kein Budget nötig, nur ein Stativ
+1. **Lila/Violett-Explosion** — Satin Chrome Eggplant Purple ist die stärkste Einzelfarbe Q3/2026 in der Fahrzeugfolierung; TikTok-Reveal-Videos viral
+2. **Anime & Manga Ästhetik auf Fahrzeugen** — Japanische Animationsgrafik von der Nische in den Mainstream-Wrap-Markt gewandert; niedrige Konkurrenz im DACH-Raum
+3. **TikTok-Vertical DOOH Creative** — DOOH-Markt Deutschland +22,4 %; Programmatic Screens übernehmen 9:16-Social-Media-Format
+4. **KI-Designs + EU-Kennzeichnungspflicht ab 2.8.2026** — Werbetechniker müssen jetzt reagieren; Compliance als Differenzierungsmerkmal nutzbar
+5. **QR-Code als Design-Element** — Fleet Wraps und Schilder mit gebrandet integrierten QR-Codes als digitaler Touchpoint
 
 ### Produkte
-1. **Mimaki UJV200-Serie** — Neuer UV-Roll-to-Roll-Drucker ab April 2026 verfügbar; bringt Weiß/Transparenttinten-Druck in KMU-Reichweite
-2. **Satin & Dual-Color Vinylfolien** — Lager jetzt auffüllen: stärkste Wachstumskategorie, Premiumpreis +40–60 % durchsetzbar
-3. **Cloud-CMS für Digital Signage** — 78 % aller neuen Screens laufen cloud-basiert; Screen + CMS-Abo = stabiler Recurring Revenue für Installateure
-4. **PVC-freie & nachhaltige Materialien** — Erste EU-Hauptstadt verbietet PVC-Bannerwerbung ab Jan. 2026; B2B-Kunden fragen Nachweise aktiv nach
-5. **Transparente LED-Mesh-Displays** — CAGR 30–36 %; Schaufenster wird zum Nacht-Display; KMU-Einstieg realistisch
+1. **Summa F-Series Vantage** — FESPA 2026; bis zu +40 % Finishing-Produktivität; live auf Technologietagen Oktober 2026 Berlin
+2. **Mimaki UJ330H-160** — Hybrid UV-Drucker (Rolle + Platte), unter 40.000 EUR; 2,5D Textureffekte möglich
+3. **DTF-Druck für Soft Signage** — Direct-to-Film für Event-Banner, Fahnen, textile Messewände; Kleinstauflagen ohne Mindestmenge
+4. **ColorFlow Effektfolien** — Mehrfarbig ohne Chamäleon-Wechselwinkel; Premium-Lagerware mit +40–80 % Aufpreis
+5. **PVC-freie Folien & Banner** — Umstellungsmoment durch EU-Druck; B2B-Kunden fordern Nachweise aktiv an
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-08-03 | KW32 | [Report](reports/2026-08-03.md) |
 | 2026-07-27 | KW31 | [Report](reports/2026-07-27.md) |
 | 2026-07-20 | KW30 | [Report](reports/2026-07-20.md) |
 | 2026-07-13 | KW29 | [Report](reports/2026-07-13.md) |
