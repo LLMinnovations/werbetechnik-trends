@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-08-03](reports/2026-08-03.md)
+**Letzter Report**: [2026-08-10](reports/2026-08-10.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Lila/Violett-Explosion** — Satin Chrome Eggplant Purple ist die stärkste Einzelfarbe Q3/2026 in der Fahrzeugfolierung; TikTok-Reveal-Videos viral
-2. **Anime & Manga Ästhetik auf Fahrzeugen** — Japanische Animationsgrafik von der Nische in den Mainstream-Wrap-Markt gewandert; niedrige Konkurrenz im DACH-Raum
-3. **TikTok-Vertical DOOH Creative** — DOOH-Markt Deutschland +22,4 %; Programmatic Screens übernehmen 9:16-Social-Media-Format
-4. **KI-Designs + EU-Kennzeichnungspflicht ab 2.8.2026** — Werbetechniker müssen jetzt reagieren; Compliance als Differenzierungsmerkmal nutzbar
-5. **QR-Code als Design-Element** — Fleet Wraps und Schilder mit gebrandet integrierten QR-Codes als digitaler Touchpoint
+1. **Satin schlägt Matte** — Satin-Chrome-Finish überholt Matte als dominante Fahrzeug-Folierkategorie 2026; sofort im Angebot umsetzbar
+2. **Chamäleon-Wrap Mainstream** — Color-Shift-Folien im breiten Markt angekommen; 30–50 % Preisaufschlag und virales TikTok-Potential
+3. **Warm-White LED-Neon Minimalismus** — Einzelwort-Neon in Warmweiß/Gold für Gastronomie & Retail; günstig in der Umsetzung
+4. **Minimalist 3D-Buchstaben für KMU** — Channel Letters ab 300–800 EUR erschwinglich; stark wachsendes Marktsegment
+5. **Lasergravur als TikTok-Content-Format** — #lasergravur boomt; Prozess-Videos viral, Geräteeinstieg ab ca. 400 EUR
 
 ### Produkte
-1. **Summa F-Series Vantage** — FESPA 2026; bis zu +40 % Finishing-Produktivität; live auf Technologietagen Oktober 2026 Berlin
-2. **Mimaki UJ330H-160** — Hybrid UV-Drucker (Rolle + Platte), unter 40.000 EUR; 2,5D Textureffekte möglich
-3. **DTF-Druck für Soft Signage** — Direct-to-Film für Event-Banner, Fahnen, textile Messewände; Kleinstauflagen ohne Mindestmenge
-4. **ColorFlow Effektfolien** — Mehrfarbig ohne Chamäleon-Wechselwinkel; Premium-Lagerware mit +40–80 % Aufpreis
-5. **PVC-freie Folien & Banner** — Umstellungsmoment durch EU-Druck; B2B-Kunden fordern Nachweise aktiv an
+1. **ORAGUARD® HelioShield (ORAFOL)** — Spektralselektive Sonnenschutzfolie; Live-Demo Oktober 2026 Berlin; neues Ertragsfeld Glasfolierung
+2. **Compact Laser-Engraver** — Desktop-Geräte ab ca. 400 EUR; Margenstark, viral-tauglich, leicht zu skalieren
+3. **Hybrid UV-LED Flachbett-Drucker neue Gen.** — Rolle + Platte in einem; 2,5D-Textureffekte für Premiumbeschriftung
+4. **Cloud-Managed Digital Signage** — Remote-Content für Mehrstandort-Kunden; Recurring Revenue ab 49 EUR/Screen/Monat
+5. **PVC-freie Folien als Branchenstandard** — Preisparität mit PVC erstmals erreicht; B2B-Kunden fordern es aktiv
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-08-10 | KW33 | [Report](reports/2026-08-10.md) |
 | 2026-08-03 | KW32 | [Report](reports/2026-08-03.md) |
 | 2026-07-27 | KW31 | [Report](reports/2026-07-27.md) |
 | 2026-07-20 | KW30 | [Report](reports/2026-07-20.md) |
