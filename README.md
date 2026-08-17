@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-08-10](reports/2026-08-10.md)
+**Letzter Report**: [2026-08-17](reports/2026-08-17.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Satin schlägt Matte** — Satin-Chrome-Finish überholt Matte als dominante Fahrzeug-Folierkategorie 2026; sofort im Angebot umsetzbar
-2. **Chamäleon-Wrap Mainstream** — Color-Shift-Folien im breiten Markt angekommen; 30–50 % Preisaufschlag und virales TikTok-Potential
-3. **Warm-White LED-Neon Minimalismus** — Einzelwort-Neon in Warmweiß/Gold für Gastronomie & Retail; günstig in der Umsetzung
-4. **Minimalist 3D-Buchstaben für KMU** — Channel Letters ab 300–800 EUR erschwinglich; stark wachsendes Marktsegment
-5. **Lasergravur als TikTok-Content-Format** — #lasergravur boomt; Prozess-Videos viral, Geräteeinstieg ab ca. 400 EUR
+1. **Satin-Chrome schlägt Matte endgültig** — Satin-Finish ist 2026 meistgefragte Fahrzeugfolierkategorie; jetzt explizit im Angebot kommunizieren
+2. **Chamäleon-Wrap Viral-Reveal-Format** — Color-Shift-Wraps explodieren auf TikTok; spektakuläre Farbwechsel-Videos erzeugen organische Reichweite
+3. **Erdtöne & Warm-Beige in Beschilderung** — Terrakotta, Salbei, Sand ersetzen grelle Digitalfarben; Gastronomie + Bio-Retail als Zielgruppe
+4. **Organische Typografie & Handlettering** — Handgezeichnete, unregelmäßige Schriften als Gegenreaktion auf KI-Ästhetik; Authentizität als USP
+5. **Vor/Nachher-Content als TikTok-Format** — Transformationsvideos für jeden Auftrag drehen; kein Budget nötig, nur Smartphone und #werbetechnik
 
 ### Produkte
-1. **ORAGUARD® HelioShield (ORAFOL)** — Spektralselektive Sonnenschutzfolie; Live-Demo Oktober 2026 Berlin; neues Ertragsfeld Glasfolierung
-2. **Compact Laser-Engraver** — Desktop-Geräte ab ca. 400 EUR; Margenstark, viral-tauglich, leicht zu skalieren
-3. **Hybrid UV-LED Flachbett-Drucker neue Gen.** — Rolle + Platte in einem; 2,5D-Textureffekte für Premiumbeschriftung
-4. **Cloud-Managed Digital Signage** — Remote-Content für Mehrstandort-Kunden; Recurring Revenue ab 49 EUR/Screen/Monat
-5. **PVC-freie Folien als Branchenstandard** — Preisparität mit PVC erstmals erreicht; B2B-Kunden fordern es aktiv
+1. **Desktop Laser-Engraver ab ~400 EUR** — TikTok #lasergravur boomt; erschließt Personalisierungs-Markt und liefert viralen Content
+2. **Chamäleon-Vinylfolien-Sortiment** — Schnellstwachsendes Premium-Wrapping-Segment; 20+ Farbkombinationen von Großhändlern verfügbar
+3. **UV-LED Flachbett-Drucker 2.5D** — Mimaki JFX200-2513 EX & Co. ermöglichen taktile Reliefdrucke; Differenzierung im Premiumsegment
+4. **Cloud-Managed Digital Signage** — SaaS-Abo ab ~20 EUR/Screen/Monat; Recurring Revenue für Werbetechnik-Betriebe
+5. **PVC-freie TPU-Folien (ORAFOL ORAJET 3971RA+)** — B2B-Kunden fordern aktiv Nachhaltigkeitszertifikate; jetzt im Sortiment führen
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-08-17 | KW34 | [Report](reports/2026-08-17.md) |
 | 2026-08-10 | KW33 | [Report](reports/2026-08-10.md) |
 | 2026-08-03 | KW32 | [Report](reports/2026-08-03.md) |
 | 2026-07-27 | KW31 | [Report](reports/2026-07-27.md) |
