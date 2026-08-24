@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-08-17](reports/2026-08-17.md)
+**Letzter Report**: [2026-08-24](reports/2026-08-24.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Satin-Chrome schlägt Matte endgültig** — Satin-Finish ist 2026 meistgefragte Fahrzeugfolierkategorie; jetzt explizit im Angebot kommunizieren
-2. **Chamäleon-Wrap Viral-Reveal-Format** — Color-Shift-Wraps explodieren auf TikTok; spektakuläre Farbwechsel-Videos erzeugen organische Reichweite
-3. **Erdtöne & Warm-Beige in Beschilderung** — Terrakotta, Salbei, Sand ersetzen grelle Digitalfarben; Gastronomie + Bio-Retail als Zielgruppe
-4. **Organische Typografie & Handlettering** — Handgezeichnete, unregelmäßige Schriften als Gegenreaktion auf KI-Ästhetik; Authentizität als USP
-5. **Vor/Nachher-Content als TikTok-Format** — Transformationsvideos für jeden Auftrag drehen; kein Budget nötig, nur Smartphone und #werbetechnik
+1. **Monochrome Luxus-Beschilderung (Wand-Match 3D-Buchstaben)** — Buchstaben in exakter Wandfarbe, nur Volumen sichtbar; Luxussegment und Architektenbüros als Zielgruppe
+2. **Herbstschaufenster 2026: Textur & Taktilität** — Taktile Materialien, Plüsch und Volumen als Leitthema für H/W 2026; jetzt Konzepte bei Einzelhandels-Kunden anbieten
+3. **Animierte RGB-Farbwechsel-Leuchtreklame** — Sound-reaktive und animierte LED-Schilder ersetzen statische Neonschilder in der Gastronomie; höherer Content-Wert für Social Media
+4. **DCO-Außenwerbung (KI-gestützte Echtzeit-Anpassung)** — Digitale Screens passen Inhalte in Millisekunden an Wetter, Uhrzeit und Kontext an; stärkstes Wachstumsthema im DOOH-Segment
+5. **Glitzer & Swarovski-Effekt-Folierung** — Premium-Nischensegment mit hohen Margen; viral auf TikTok durch spektakuläre Reveal-Videos
 
 ### Produkte
-1. **Desktop Laser-Engraver ab ~400 EUR** — TikTok #lasergravur boomt; erschließt Personalisierungs-Markt und liefert viralen Content
-2. **Chamäleon-Vinylfolien-Sortiment** — Schnellstwachsendes Premium-Wrapping-Segment; 20+ Farbkombinationen von Großhändlern verfügbar
-3. **UV-LED Flachbett-Drucker 2.5D** — Mimaki JFX200-2513 EX & Co. ermöglichen taktile Reliefdrucke; Differenzierung im Premiumsegment
-4. **Cloud-Managed Digital Signage** — SaaS-Abo ab ~20 EUR/Screen/Monat; Recurring Revenue für Werbetechnik-Betriebe
-5. **PVC-freie TPU-Folien (ORAFOL ORAJET 3971RA+)** — B2B-Kunden fordern aktiv Nachhaltigkeitszertifikate; jetzt im Sortiment führen
+1. **Samsung Color E-Paper Display (13")** — Stromsparende, nachhaltige Digitalschilder ohne Dauerstrom; ideal für Türschilder und Infostelen in Arztpraxen und Bürogebäuden
+2. **xTool F2 Ultra UV-Laser-Engraver** — Neuer 5W UV-Kaltlaser für Glas- und Keramikgravur ohne Verbrennungen; erschließt Personalisierungs-Premiumsegment
+3. **3D Car Wrap Visualisierungs-Software (3DChanger)** — Echtzeit-3D-Vorschau für Folierungen verändert den Verkaufsprozess grundlegend
+4. **Modulare Schaufenster-Display-Systeme** — Wiederverwendbare Rahmensysteme + saisonale Folienwechsel als Abo-Modell mit Recurring Revenue
+5. **E-Ink Elektronische Preisschilder (ESL)** — App-gesteuerte Preistags für Einzelhandel; Installation + Software-Abo als planbare, wiederkehrende Einnahmen
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-08-24 | KW35 | [Report](reports/2026-08-24.md) |
 | 2026-08-17 | KW34 | [Report](reports/2026-08-17.md) |
 | 2026-08-10 | KW33 | [Report](reports/2026-08-10.md) |
 | 2026-08-03 | KW32 | [Report](reports/2026-08-03.md) |
@@ -46,7 +47,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 ---
 
 ## Methodik
-- **Quellen**: TikTok (Hashtag-Scans via Discover & Websuche), Google Trends DE (qualitativ), invidis.de, maresmedia.se, geminimade.com, fastsigns.com, raxtify.com, sailifilm.com, neonsign.com, ledpointlight.com, sessner-werbetechnik.de, Branchen-Websites
+- **Quellen**: TikTok (Hashtag-Scans via Discover & Websuche), Google Trends DE (qualitativ), friendlyway.de, smartenic.com, projektunion.de, fashionunited.de, euroshop.de, samsung.de, displaynd.de, 3dmaterial-shop.de, neonmonki.com, sygns.com, pretende.com, foro3d.com, plotterhaus.de, delfi.com, Branchen-Websites
 - **Auswahl**: Top 10 Design-Trends + Top 10 Produkt-Trends
 - **Score**: 1–5 ⭐ basierend auf Wachstum, Reichweite, Umsetzbarkeit für DACH-KMU
 - **Zielgruppe**: Solo-Unternehmer + KMU im DACH-Raum (Außenwerbung, Beschilderung, Digital Signage, Druck, Folierung, LED, Leuchtwerbung, Schaufenstergestaltung, Vehicle Wrapping)
