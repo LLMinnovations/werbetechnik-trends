@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-08-24](reports/2026-08-24.md)
+**Letzter Report**: [2026-08-31](reports/2026-08-31.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Monochrome Luxus-Beschilderung (Wand-Match 3D-Buchstaben)** — Buchstaben in exakter Wandfarbe, nur Volumen sichtbar; Luxussegment und Architektenbüros als Zielgruppe
-2. **Herbstschaufenster 2026: Textur & Taktilität** — Taktile Materialien, Plüsch und Volumen als Leitthema für H/W 2026; jetzt Konzepte bei Einzelhandels-Kunden anbieten
-3. **Animierte RGB-Farbwechsel-Leuchtreklame** — Sound-reaktive und animierte LED-Schilder ersetzen statische Neonschilder in der Gastronomie; höherer Content-Wert für Social Media
-4. **DCO-Außenwerbung (KI-gestützte Echtzeit-Anpassung)** — Digitale Screens passen Inhalte in Millisekunden an Wetter, Uhrzeit und Kontext an; stärkstes Wachstumsthema im DOOH-Segment
-5. **Glitzer & Swarovski-Effekt-Folierung** — Premium-Nischensegment mit hohen Margen; viral auf TikTok durch spektakuläre Reveal-Videos
+1. **Satin triumphiert über Matte** — Satin-Folierungen überholen Matte als meistgefragt; neue Satin-Chrome-Farbtöne (Red, Silver, Ceramic Black) als Upsell-Produkte
+2. **Chameleon/Color-Flip-Folierung** — Winkelabhängige Farbwechsel-Folien viral auf TikTok; Reveal-Videos generieren organischen Social-Media-Content
+3. **Neo-Chromatischer Minimalismus in Schaufenster** — Gedeckte Pastellpalette + einzelne Akzentfarbe; Klarheit statt Überladung als Leit-Prinzip 2026
+4. **Hyper-personalisierte LED-Neon-Schilder** — Weg von Stock-Slogans, hin zu 100 % individuellen Namen und Logos als Business-Branding
+5. **Giant Channel Letters als Retail-Identitätsmerkmal** — Übergroße beleuchtete Kanalschriften für starke Außenwirkung und TikTok-taugliche Montage-Videos
 
 ### Produkte
-1. **Samsung Color E-Paper Display (13")** — Stromsparende, nachhaltige Digitalschilder ohne Dauerstrom; ideal für Türschilder und Infostelen in Arztpraxen und Bürogebäuden
-2. **xTool F2 Ultra UV-Laser-Engraver** — Neuer 5W UV-Kaltlaser für Glas- und Keramikgravur ohne Verbrennungen; erschließt Personalisierungs-Premiumsegment
-3. **3D Car Wrap Visualisierungs-Software (3DChanger)** — Echtzeit-3D-Vorschau für Folierungen verändert den Verkaufsprozess grundlegend
-4. **Modulare Schaufenster-Display-Systeme** — Wiederverwendbare Rahmensysteme + saisonale Folienwechsel als Abo-Modell mit Recurring Revenue
-5. **E-Ink Elektronische Preisschilder (ESL)** — App-gesteuerte Preistags für Einzelhandel; Installation + Software-Abo als planbare, wiederkehrende Einnahmen
+1. **E Ink Marquee** — Neues Großformat-Farb-ePaper für DOOH-Außenbereich; 75"-Tiled-Display, 99 % weniger Strom als LCD; auf InfoComm 2026 vorgestellt
+2. **Satin Chrome Folienfilme** — Neue metallische Satin-Farbvarianten (Chrome Red, Chrome Silver, Gold) als meistverkaufte Folienkategorie 2026
+3. **PPWR-konforme PVC-freie Folien** — EU-Verordnung seit August 2026 in Kraft; Compliance-Nachweis wird von Kunden aktiv eingefordert
+4. **CO2-Laser + UV-Drucker Kombinations-Workflow** — Profitables Produktionsduo für KMU: erst schneiden, dann bedrucken auf Acryl
+5. **E Ink Spectra 6 ESL-Boom** — E Ink investiert 157–250 Mio. USD in Kapazität; ESL erstmals erschwinglich für KMU-Einzelhandel
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-08-31 | KW36 | [Report](reports/2026-08-31.md) |
 | 2026-08-24 | KW35 | [Report](reports/2026-08-24.md) |
 | 2026-08-17 | KW34 | [Report](reports/2026-08-17.md) |
 | 2026-08-10 | KW33 | [Report](reports/2026-08-10.md) |
@@ -47,7 +48,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 ---
 
 ## Methodik
-- **Quellen**: TikTok (Hashtag-Scans via Discover & Websuche), Google Trends DE (qualitativ), friendlyway.de, smartenic.com, projektunion.de, fashionunited.de, euroshop.de, samsung.de, displaynd.de, 3dmaterial-shop.de, neonmonki.com, sygns.com, pretende.com, foro3d.com, plotterhaus.de, delfi.com, Branchen-Websites
+- **Quellen**: TikTok (Hashtag-Scans via Discover & Websuche), Google Trends DE (qualitativ), eink.com, gilroyblackout.com, raxtify.com, neonsignsdepot.com, kitcast.tv, advision.digital, craftsmenind.com, onedoor.com, werbezeichen.de, friendlyway.de, fashionunited.de, euroshop.de, samsung.de, displaynd.de, neonmonki.com, sygns.com, pretende.com, foro3d.com, Branchen-Websites
 - **Auswahl**: Top 10 Design-Trends + Top 10 Produkt-Trends
 - **Score**: 1–5 ⭐ basierend auf Wachstum, Reichweite, Umsetzbarkeit für DACH-KMU
 - **Zielgruppe**: Solo-Unternehmer + KMU im DACH-Raum (Außenwerbung, Beschilderung, Digital Signage, Druck, Folierung, LED, Leuchtwerbung, Schaufenstergestaltung, Vehicle Wrapping)
