@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-08-31](reports/2026-08-31.md)
+**Letzter Report**: [2026-09-07](reports/2026-09-07.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Satin triumphiert über Matte** — Satin-Folierungen überholen Matte als meistgefragt; neue Satin-Chrome-Farbtöne (Red, Silver, Ceramic Black) als Upsell-Produkte
-2. **Chameleon/Color-Flip-Folierung** — Winkelabhängige Farbwechsel-Folien viral auf TikTok; Reveal-Videos generieren organischen Social-Media-Content
-3. **Neo-Chromatischer Minimalismus in Schaufenster** — Gedeckte Pastellpalette + einzelne Akzentfarbe; Klarheit statt Überladung als Leit-Prinzip 2026
-4. **Hyper-personalisierte LED-Neon-Schilder** — Weg von Stock-Slogans, hin zu 100 % individuellen Namen und Logos als Business-Branding
-5. **Giant Channel Letters als Retail-Identitätsmerkmal** — Übergroße beleuchtete Kanalschriften für starke Außenwirkung und TikTok-taugliche Montage-Videos
+1. **Retro-LED-Neon in Warm-Pastell** — Vintage-inspirierte LED-Neons in Blush Pink, Lavendel und Sage dominieren Hospitality-Schilder und TikTok
+2. **UV-Print Neon auf Acryl** — Foto-realistisches Neon mit +200% YoY-Wachstum; kombiniert UV-Druck und LED-Kantenbeleuchtung
+3. **Konfigurativer Minimalismus** — Weniger Worte, maximaler Kontrast; bold Sans-Serif als Standard 2026
+4. **Anime & Manga-Folierungen** — Japanische Animationsästhetik als Nischen-Wachstumsmarkt im Fahrzeug-Wrapping
+5. **Vertikale TikTok-Creative in Digital Signage** — 9:16-Hochformat-Content verdrängt statische Bannerwerbung auf DOOH-Screens
 
 ### Produkte
-1. **E Ink Marquee** — Neues Großformat-Farb-ePaper für DOOH-Außenbereich; 75"-Tiled-Display, 99 % weniger Strom als LCD; auf InfoComm 2026 vorgestellt
-2. **Satin Chrome Folienfilme** — Neue metallische Satin-Farbvarianten (Chrome Red, Chrome Silver, Gold) als meistverkaufte Folienkategorie 2026
-3. **PPWR-konforme PVC-freie Folien** — EU-Verordnung seit August 2026 in Kraft; Compliance-Nachweis wird von Kunden aktiv eingefordert
-4. **CO2-Laser + UV-Drucker Kombinations-Workflow** — Profitables Produktionsduo für KMU: erst schneiden, dann bedrucken auf Acryl
-5. **E Ink Spectra 6 ESL-Boom** — E Ink investiert 157–250 Mio. USD in Kapazität; ESL erstmals erschwinglich für KMU-Einzelhandel
+1. **E Ink Marquee** — Best-in-Show InfoComm 2026; ultraenergiesparsame Großformat-Farb-ePaper für Outdoor ohne Stromanschluss
+2. **PPWR-konforme PVC-freie Folien** — EU-Pflicht seit August 2026; kein USP mehr, sondern Mindestanforderung
+3. **3D-Drucker für Kanalschriften** — 60% Kostenreduktion vs. konventionell; In-House-Overnight-Produktion möglich
+4. **AI-Content-Generierung in Signage-CMS** — Standard 2026; +40% Dwell Time und +30% Conversion-Lift in Studien nachgewiesen
+5. **LG MAGNIT Micro LED (ISE 2026)** — Kommerzielle Micro-LED-Displays jetzt shipping; Markt wächst CAGR 30% bis 2034
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-09-07 | KW37 | [Report](reports/2026-09-07.md) |
 | 2026-08-31 | KW36 | [Report](reports/2026-08-31.md) |
 | 2026-08-24 | KW35 | [Report](reports/2026-08-24.md) |
 | 2026-08-17 | KW34 | [Report](reports/2026-08-17.md) |
@@ -48,7 +49,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 ---
 
 ## Methodik
-- **Quellen**: TikTok (Hashtag-Scans via Discover & Websuche), Google Trends DE (qualitativ), eink.com, gilroyblackout.com, raxtify.com, neonsignsdepot.com, kitcast.tv, advision.digital, craftsmenind.com, onedoor.com, werbezeichen.de, friendlyway.de, fashionunited.de, euroshop.de, samsung.de, displaynd.de, neonmonki.com, sygns.com, pretende.com, foro3d.com, Branchen-Websites
+- **Quellen**: TikTok (Hashtag-Scans via Discover & Websuche), Google Trends DE (qualitativ), eink.com, lg.com, avnetwork.com, invidis.com, advision.digital, kitcast.tv, sessner-werbetechnik.de, technoplot.de, rolanddg.eu, sg3dprinters.com, carlikefilm.com, craftsmenind.com, allwraps.us, neondaddy.co.uk, shineneon.com, echoneon.com, neonsign.com, newstylesigns.com, hssignshop.com, phxsignshop.com, rabbitlaserusa.com, laservii.com, labelprint24.com, ledful.com, optimumsignswi.com
 - **Auswahl**: Top 10 Design-Trends + Top 10 Produkt-Trends
 - **Score**: 1–5 ⭐ basierend auf Wachstum, Reichweite, Umsetzbarkeit für DACH-KMU
 - **Zielgruppe**: Solo-Unternehmer + KMU im DACH-Raum (Außenwerbung, Beschilderung, Digital Signage, Druck, Folierung, LED, Leuchtwerbung, Schaufenstergestaltung, Vehicle Wrapping)
