@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-09-07](reports/2026-09-07.md)
+**Letzter Report**: [2026-09-14](reports/2026-09-14.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Retro-LED-Neon in Warm-Pastell** — Vintage-inspirierte LED-Neons in Blush Pink, Lavendel und Sage dominieren Hospitality-Schilder und TikTok
-2. **UV-Print Neon auf Acryl** — Foto-realistisches Neon mit +200% YoY-Wachstum; kombiniert UV-Druck und LED-Kantenbeleuchtung
-3. **Konfigurativer Minimalismus** — Weniger Worte, maximaler Kontrast; bold Sans-Serif als Standard 2026
-4. **Anime & Manga-Folierungen** — Japanische Animationsästhetik als Nischen-Wachstumsmarkt im Fahrzeug-Wrapping
-5. **Vertikale TikTok-Creative in Digital Signage** — 9:16-Hochformat-Content verdrängt statische Bannerwerbung auf DOOH-Screens
+1. **Warm-Pastel-Minimalismus bei LED-Neon** — Blush Pink, Lavendel, Sage und Terrakotta verdrängen grelle Farben; warme Erdtöne dominieren Gastronomie- und Retail-Beschilderung
+2. **Personalisierungs-Welle: Custom Name & Phrase Signs** — Hyper-personalisierte LED-Neon-Schriftzüge mit Online-Konfigurator als hochmargiges Massenprodukt
+3. **Kontinuierliche Linie / Line-Art Neon** — Einzelner Leuchtfaden zeichnet Motive statt Text; minimalistische Kunstwerke für Interior und Schaufenster
+4. **Retro-Vintage-Revival: Art Déco & 80s-Neon** — Heritage-Branding mit mattem Schwarz und Vintage-Typografie boomt in Gastronomie und Barbershops
+5. **Hybrid-Finish Fahrzeugfolierungen** — Matte und glänzende Bereiche kombiniert im selben Wrap; Premium-Option mit 20-30% Preisaufschlag erzielbar
 
 ### Produkte
-1. **E Ink Marquee** — Best-in-Show InfoComm 2026; ultraenergiesparsame Großformat-Farb-ePaper für Outdoor ohne Stromanschluss
-2. **PPWR-konforme PVC-freie Folien** — EU-Pflicht seit August 2026; kein USP mehr, sondern Mindestanforderung
-3. **3D-Drucker für Kanalschriften** — 60% Kostenreduktion vs. konventionell; In-House-Overnight-Produktion möglich
-4. **AI-Content-Generierung in Signage-CMS** — Standard 2026; +40% Dwell Time und +30% Conversion-Lift in Studien nachgewiesen
-5. **LG MAGNIT Micro LED (ISE 2026)** — Kommerzielle Micro-LED-Displays jetzt shipping; Markt wächst CAGR 30% bis 2034
+1. **Context-aware AI im Digital Signage CMS** — KI passt Content in Echtzeit an Publikum, Tageszeit und Wetter an; +40% Dwell Time und +30% Conversion nachgewiesen
+2. **PVC-freie PPWR-konforme Folien** — Seit August 2026 EU-Pflicht; kein Differenzierungsmerkmal mehr, sondern Mindeststandard
+3. **In-House 3D-Druck für Kanalschriften** — Ca. 60% Kostenreduktion vs. Fremdvergabe; Overnight-Produktion möglich
+4. **KI-optimierte Laser-Gravursysteme** — Automatische Material- und Parameteroptimierung für feinere Details und weniger Materialverlust
+5. **E-Ink Marquee / ePaper-Outdoor-Displays** — Solarbetrieben, ohne Stromanschluss; Best-in-Show InfoComm 2026
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-09-14 | KW38 | [Report](reports/2026-09-14.md) |
 | 2026-09-07 | KW37 | [Report](reports/2026-09-07.md) |
 | 2026-08-31 | KW36 | [Report](reports/2026-08-31.md) |
 | 2026-08-24 | KW35 | [Report](reports/2026-08-24.md) |
@@ -49,7 +50,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 ---
 
 ## Methodik
-- **Quellen**: TikTok (Hashtag-Scans via Discover & Websuche), Google Trends DE (qualitativ), eink.com, lg.com, avnetwork.com, invidis.com, advision.digital, kitcast.tv, sessner-werbetechnik.de, technoplot.de, rolanddg.eu, sg3dprinters.com, carlikefilm.com, craftsmenind.com, allwraps.us, neondaddy.co.uk, shineneon.com, echoneon.com, neonsign.com, newstylesigns.com, hssignshop.com, phxsignshop.com, rabbitlaserusa.com, laservii.com, labelprint24.com, ledful.com, optimumsignswi.com
+- **Quellen**: TikTok (Hashtag-Scans via Discover & Websuche), Google Trends DE (qualitativ), invidis.de, risevision.com, nento.com, echoneon.com, allwraps.us, tierische-momente.com, sygns.com, neonmonki.com, signsandleds.com, starfishsigns.com, brightsign.biz, fugo.ai, friendlyway.com, torontocarwrap.com, neonglowinglights.com
 - **Auswahl**: Top 10 Design-Trends + Top 10 Produkt-Trends
 - **Score**: 1–5 ⭐ basierend auf Wachstum, Reichweite, Umsetzbarkeit für DACH-KMU
 - **Zielgruppe**: Solo-Unternehmer + KMU im DACH-Raum (Außenwerbung, Beschilderung, Digital Signage, Druck, Folierung, LED, Leuchtwerbung, Schaufenstergestaltung, Vehicle Wrapping)
