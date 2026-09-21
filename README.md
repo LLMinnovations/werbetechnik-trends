@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-09-14](reports/2026-09-14.md)
+**Letzter Report**: [2026-09-21](reports/2026-09-21.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Warm-Pastel-Minimalismus bei LED-Neon** — Blush Pink, Lavendel, Sage und Terrakotta verdrängen grelle Farben; warme Erdtöne dominieren Gastronomie- und Retail-Beschilderung
-2. **Personalisierungs-Welle: Custom Name & Phrase Signs** — Hyper-personalisierte LED-Neon-Schriftzüge mit Online-Konfigurator als hochmargiges Massenprodukt
-3. **Kontinuierliche Linie / Line-Art Neon** — Einzelner Leuchtfaden zeichnet Motive statt Text; minimalistische Kunstwerke für Interior und Schaufenster
-4. **Retro-Vintage-Revival: Art Déco & 80s-Neon** — Heritage-Branding mit mattem Schwarz und Vintage-Typografie boomt in Gastronomie und Barbershops
-5. **Hybrid-Finish Fahrzeugfolierungen** — Matte und glänzende Bereiche kombiniert im selben Wrap; Premium-Option mit 20-30% Preisaufschlag erzielbar
+1. **UV-Print Neon / Fotorealistisches Leuchtschild** — Vollfarb-UV-Druck auf Acryl mit LED-Kantenbeleuchtung; ca. +200 % YoY-Wachstum seit 2024, sinkende Einstiegspreise
+2. **Chameleon / Color-Shift Fahrzeugfolierung** — Farbwechsel-Vinyl ist die wachstumsstärkste Premium-Kategorie im Wrapping 2026; über 50 Farbkombinationen verfügbar
+3. **Gradient / Farbverlauf-Design für Wraps** — Weiche Farbübergänge über das gesamte Fahrzeug; besonders stark auf EVs und Sportwagen nachgefragt
+4. **Biophilic Signage — Moos-Buchstaben & Naturmaterial-Logos** — 3D-Moos-Buchstaben für Unternehmensrezeptionen als hochpreisige Alternative zu Neon
+5. **Herbst-Schaufenster 2026: Reduktion + Geometrie** — Klare Formen, Naturmaterialien, neutrale Töne mit Akzentfarbe; EuroShop 2026 bestätigt Richtungswechsel
 
 ### Produkte
-1. **Context-aware AI im Digital Signage CMS** — KI passt Content in Echtzeit an Publikum, Tageszeit und Wetter an; +40% Dwell Time und +30% Conversion nachgewiesen
-2. **PVC-freie PPWR-konforme Folien** — Seit August 2026 EU-Pflicht; kein Differenzierungsmerkmal mehr, sondern Mindeststandard
-3. **In-House 3D-Druck für Kanalschriften** — Ca. 60% Kostenreduktion vs. Fremdvergabe; Overnight-Produktion möglich
-4. **KI-optimierte Laser-Gravursysteme** — Automatische Material- und Parameteroptimierung für feinere Details und weniger Materialverlust
-5. **E-Ink Marquee / ePaper-Outdoor-Displays** — Solarbetrieben, ohne Stromanschluss; Best-in-Show InfoComm 2026
+1. **UV-Flatbed-Drucksysteme für Acryl-Neon-Effekte** — Einstieg in fotorealistisches Neon in-house; wachstumsstarkes Segment mit guten Margen
+2. **Chameleon / Color-Shift Vinyl-Folien (neue Sortimente)** — Führende Hersteller erweitern Lager auf 50+ Kombinationen; schnell in Portfolio aufnehmbar
+3. **MicroLED Transparent Displays** — Europäisches Debüt auf VivaTech 2026; nächste Generation Schaufenster-Digital-Signage mit hoher Helligkeit
+4. **Fiber-Laser-Gravuranlagen der neuen Generation** — Kompakter, günstiger, KI-unterstützt; Creator-Boom treibt Nachfrage nach personalisierten Schildern
+5. **IoT-integrierte Solar-Außenwerbung** — Solarbetriebene Displays mit Sensor-Steuerung ohne Stromanschluss für Standorte abseits der Infrastruktur
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-09-21 | KW39 | [Report](reports/2026-09-21.md) |
 | 2026-09-14 | KW38 | [Report](reports/2026-09-14.md) |
 | 2026-09-07 | KW37 | [Report](reports/2026-09-07.md) |
 | 2026-08-31 | KW36 | [Report](reports/2026-08-31.md) |
