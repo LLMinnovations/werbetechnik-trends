@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-09-21](reports/2026-09-21.md)
+**Letzter Report**: [2026-09-28](reports/2026-09-28.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **UV-Print Neon / Fotorealistisches Leuchtschild** — Vollfarb-UV-Druck auf Acryl mit LED-Kantenbeleuchtung; ca. +200 % YoY-Wachstum seit 2024, sinkende Einstiegspreise
-2. **Chameleon / Color-Shift Fahrzeugfolierung** — Farbwechsel-Vinyl ist die wachstumsstärkste Premium-Kategorie im Wrapping 2026; über 50 Farbkombinationen verfügbar
-3. **Gradient / Farbverlauf-Design für Wraps** — Weiche Farbübergänge über das gesamte Fahrzeug; besonders stark auf EVs und Sportwagen nachgefragt
-4. **Biophilic Signage — Moos-Buchstaben & Naturmaterial-Logos** — 3D-Moos-Buchstaben für Unternehmensrezeptionen als hochpreisige Alternative zu Neon
-5. **Herbst-Schaufenster 2026: Reduktion + Geometrie** — Klare Formen, Naturmaterialien, neutrale Töne mit Akzentfarbe; EuroShop 2026 bestätigt Richtungswechsel
+1. **Satin-Finish als neues Matte** — Satin-Oberflächen lösen Matte als bevorzugtes Premium-Finish bei Fahrzeugfolierungen ab; edler Look ohne Überpflege
+2. **Warme Erdtöne / Mocha Mousse** — Pantones Farbe des Jahres 2026 durchzieht Herbst-Schaufenstergestaltung und Wrapping; Bronze, Kupfer und Desert Tan als Begleittöne
+3. **Color-Shift / Chameleon Wraps** — Farbwechsel-Vinyl ist die wachstumsstärkste Wrap-Kategorie 2026 mit 50+ Kombinationen im Markt
+4. **Geometrische Reduktion im Schaufenster** — Klare Formen, bewusste Freiräume, hochwertige Einzelmaterialien statt Reizüberflutung
+5. **Neon-LED-Hybrid mit RGB-Animationseffekten** — Interaktive animierte Neonschilder als neue Standard-Kategorie für Gastro, Events und Social-Media-Fotowände
 
 ### Produkte
-1. **UV-Flatbed-Drucksysteme für Acryl-Neon-Effekte** — Einstieg in fotorealistisches Neon in-house; wachstumsstarkes Segment mit guten Margen
-2. **Chameleon / Color-Shift Vinyl-Folien (neue Sortimente)** — Führende Hersteller erweitern Lager auf 50+ Kombinationen; schnell in Portfolio aufnehmbar
-3. **MicroLED Transparent Displays** — Europäisches Debüt auf VivaTech 2026; nächste Generation Schaufenster-Digital-Signage mit hoher Helligkeit
-4. **Fiber-Laser-Gravuranlagen der neuen Generation** — Kompakter, günstiger, KI-unterstützt; Creator-Boom treibt Nachfrage nach personalisierten Schildern
-5. **IoT-integrierte Solar-Außenwerbung** — Solarbetriebene Displays mit Sensor-Steuerung ohne Stromanschluss für Standorte abseits der Infrastruktur
+1. **Kompakte UV-Hybrid-Flachbettdrucker** — Meistgefragtes Segment auf ISA Sign Expo 2026 für KMU-Startups; Mimaki UJ330H-160 und Roland VersaOBJECT als neue Referenzgeräte
+2. **Paint Protection Film (PPF)** — DACH-Markt ~42,8 Mio. USD in 2026; farbige und matte PPF als Upsell für Wrap-Shops mit starkem EV-Wachstum
+3. **Transparente LED-Displays** — Schaufenster-Digital-Signage ohne Sichtblockade; Marktreife 2026, CAGR ~17,5 % bis 2030
+4. **Color-Shift & Chameleon Vinyl-Folien** — 50+ Farbwechsel-SKUs bei Großhändlern verfügbar; differenzierendes Sortimentserweiterung für Wrap-Shops
+5. **KI-gestützte Digital-Signage-Systeme** — Cloud-Plattformen mit AI-Content, IoT-Sensorik und SaaS-Modellen senken die KMU-Einstiegshürde
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-09-28 | KW40 | [Report](reports/2026-09-28.md) |
 | 2026-09-21 | KW39 | [Report](reports/2026-09-21.md) |
 | 2026-09-14 | KW38 | [Report](reports/2026-09-14.md) |
 | 2026-09-07 | KW37 | [Report](reports/2026-09-07.md) |
@@ -51,7 +52,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 ---
 
 ## Methodik
-- **Quellen**: TikTok (Hashtag-Scans via Discover & Websuche), Google Trends DE (qualitativ), invidis.de, risevision.com, nento.com, echoneon.com, allwraps.us, tierische-momente.com, sygns.com, neonmonki.com, signsandleds.com, starfishsigns.com, brightsign.biz, fugo.ai, friendlyway.com, torontocarwrap.com, neonglowinglights.com
+- **Quellen**: TikTok (Hashtag-Scans via Discover & Websuche), Google Trends DE (qualitativ), Branchen-Messen (PRINTING United Expo, ISA Sign Expo, FESPA, The Sign Show, Merchandays), invidis.de, werbetechnik.de, spandex.de, torontocarwrap.com, allwraps.us, alukovinyl.com, yeswrap.com, monportlaser.de, neonmonki.com, friendlyway.de, szmeitec.com
 - **Auswahl**: Top 10 Design-Trends + Top 10 Produkt-Trends
 - **Score**: 1–5 ⭐ basierend auf Wachstum, Reichweite, Umsetzbarkeit für DACH-KMU
 - **Zielgruppe**: Solo-Unternehmer + KMU im DACH-Raum (Außenwerbung, Beschilderung, Digital Signage, Druck, Folierung, LED, Leuchtwerbung, Schaufenstergestaltung, Vehicle Wrapping)
