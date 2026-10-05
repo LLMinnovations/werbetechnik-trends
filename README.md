@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-09-28](reports/2026-09-28.md)
+**Letzter Report**: [2026-10-05](reports/2026-10-05.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Satin-Finish als neues Matte** — Satin-Oberflächen lösen Matte als bevorzugtes Premium-Finish bei Fahrzeugfolierungen ab; edler Look ohne Überpflege
-2. **Warme Erdtöne / Mocha Mousse** — Pantones Farbe des Jahres 2026 durchzieht Herbst-Schaufenstergestaltung und Wrapping; Bronze, Kupfer und Desert Tan als Begleittöne
-3. **Color-Shift / Chameleon Wraps** — Farbwechsel-Vinyl ist die wachstumsstärkste Wrap-Kategorie 2026 mit 50+ Kombinationen im Markt
-4. **Geometrische Reduktion im Schaufenster** — Klare Formen, bewusste Freiräume, hochwertige Einzelmaterialien statt Reizüberflutung
-5. **Neon-LED-Hybrid mit RGB-Animationseffekten** — Interaktive animierte Neonschilder als neue Standard-Kategorie für Gastro, Events und Social-Media-Fotowände
+1. **Color-Shift & Chameleon Wraps** — Schnellstes Wrap-Wachstumssegment 2026; 50+ SKUs; EV-Käufer als Haupttreiber
+2. **LED-Neon-Hybrid mit RGB-Animation** — #neonsign auf TikTok: 120k+ Posts; personalisierte Flex-LED-Schilder für Gastro, Events, Home-Deco
+3. **Warme Erdtöne / Mocha Mousse** — Pantone 2026 durchzieht Herbst/Winter-Schaufenstergestaltung; Bronze, Kupfer, Desert Tan als Begleittöne
+4. **Geometrische Reduktion im Schaufenster** — Kubische Elemente, wenige Akzentfarben, Holz/Glas/Metall; Weihnachtsgeschäft startet jetzt
+5. **KI-generiertes Content-Design** — Programmatic DOOH: 1,25 Mrd. EUR in DACH 2026; zeitgesteuerte KI-Grafiken für jeden Screen
 
 ### Produkte
-1. **Kompakte UV-Hybrid-Flachbettdrucker** — Meistgefragtes Segment auf ISA Sign Expo 2026 für KMU-Startups; Mimaki UJ330H-160 und Roland VersaOBJECT als neue Referenzgeräte
-2. **Paint Protection Film (PPF)** — DACH-Markt ~42,8 Mio. USD in 2026; farbige und matte PPF als Upsell für Wrap-Shops mit starkem EV-Wachstum
-3. **Transparente LED-Displays** — Schaufenster-Digital-Signage ohne Sichtblockade; Marktreife 2026, CAGR ~17,5 % bis 2030
-4. **Color-Shift & Chameleon Vinyl-Folien** — 50+ Farbwechsel-SKUs bei Großhändlern verfügbar; differenzierendes Sortimentserweiterung für Wrap-Shops
-5. **KI-gestützte Digital-Signage-Systeme** — Cloud-Plattformen mit AI-Content, IoT-Sensorik und SaaS-Modellen senken die KMU-Einstiegshürde
+1. **PPF mit Selbstheilung** — DACH-Markt 42,8 Mio. USD in 2026; CAGR 5,8 % global; Matte PPF als Upsell-Renner
+2. **KI-gestützte Digital-Signage (Cloud/SaaS)** — 40 % aller OOH-Ausgaben digital; SaaS-CMS für KMU ohne IT-Kenntnisse
+3. **PVC-freie Folien & Latex-Druck** — EU-Regulierung treibt Umstieg; Grafityp GEF, Avery SP 3500, Orajet 3720/3740
+4. **3D-Druck-Leuchtbuchstaben** — Leichter, schneller, günstiger als Profilbuchstaben; FDM-Drucker als neue Werkzeugkategorie
+5. **Fiber-Laser & CO2-Lasergravur für KMU** — Starke DE-Nachfrage; Personalisierungsservice als neue Umsatzsäule ab Weihnachtsgeschäft
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-10-05 | KW41 | [Report](reports/2026-10-05.md) |
 | 2026-09-28 | KW40 | [Report](reports/2026-09-28.md) |
 | 2026-09-21 | KW39 | [Report](reports/2026-09-21.md) |
 | 2026-09-14 | KW38 | [Report](reports/2026-09-14.md) |
