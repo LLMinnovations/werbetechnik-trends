@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-10-19](reports/2026-10-19.md)
+**Letzter Report**: [2026-10-26](reports/2026-10-26.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Satin-Finishes überholen Matte** — Satin und „Frozen"-Finishes sind 2026 die meistgefragte Wrap-Kategorie; mehrere Quellen bestätigen Satin als neuen Premium-Standard
-2. **Midnight Blue & Midnight Purple** — Tiefe Blau-/Lila-Töne steigen neben Erdtönen als Wrap-Farb-Kategorie auf; gedämpfte Violett- und Nachtblau-Töne erhalten ernsthafte Kundenanfragen
-3. **UV-Druck-Neon** — Vollfarb-Fotos und Logos auf Acryl mit LED-Randbeleuchtung; laut shineneon.com „fastest-growing category" im LED-Neon-Markt 2026
-4. **KI-Personalisierung im Digital Signage** — 41 % aller Implementierungen 2026 nutzen KI-gesteuerte Inhalte; Echtzeit-Anpassung nach Zeit, Wetter und Zielgruppe
-5. **Retro-Diner & Cinema-Ästhetik** — Vintage-Gastronomie-Look mit Marquee-Schriften, Edison-Optik und Art-Déco-Typografie boomt in deutschen Städten
+1. **Chamäleon-/Color-Shift-Folien** — Folien mit 2+ Farben je nach Blickwinkel (Lila→Türkis, Smaragd→Gold) als Standout-Trend der Saison; Installer berichten von stark steigenden Anfragen
+2. **Minimalistisches Neon-Linienart** — Warmweiß und Pastell-LED-Neon überholen bunte Multi-Color-Designs; Single-Word und Continuous-Line als neue Bestseller-Kategorie
+3. **Personalisierte Event-Neon-Schilder** — Hochzeits-Neons mit Partnernamen und Datum als Standardausstattung; Herbst-Saison-Boost durch Verlobungen und Weihnachtsmärkte
+4. **Retro-Diner & Cinema-Ästhetik** — Marquee-Schriften, Art-Déco-Typografie und Vintage-Gastronomie-Look erleben Revival; ideal für Neueröffnungen und Content-Hooks
+5. **Teilfolierung als günstige Firmenwerbung** — Haube, Dach, Streifen + Logo als Einstiegspaket für KMU-Firmenwagen; aktive TikTok-Community unter #autofolierung
 
 ### Produkte
-1. **Mimaki UJV200-Serie UV-LED Roll-to-Roll** — FESPA 2026 EMEA-Debut; neues Mittelklasse-UV-LED-Drucksystem für Sign Graphics; jetzt bei DACH-Händlern verfügbar
-2. **Samsung Spatial Display 85"** — 3D-Effekt Digital Signage ohne Brille; ISE 2026 Vorstellung; für Premium-Retail ohne MicroLED-Budget
-3. **PPDS Philips D-Line 5000 mit KI-NPU** — Octa-Core + 6 TOPS Neural Processing Unit; DSGVO-konformes Audience-Analytics on-device; ISE 2026
-4. **Akkubetriebene Outdoor-Displays** — Kabelfreies Digital Signage für Außengastronomie, Events und mobile Händler; wachsendes DACH-Segment
-5. **KI-Werkzeuge für Schilddesign** — Adobe Firefly, Vectorizer.ai, Canva KI als Standard-Workflow für Vorentwurf und Kundenpräsentation
+1. **PVC-freie Werbefolien** — Tallinn-Verbot ab Jan. 2026 als regulatorisches Signal; Neschen, 3M Envision und Kavalan mit DACH-relevanten Produktlinien
+2. **KI-Contentgenerierung für Digital Signage** — Samsung AI Studio (ISE 2026) macht automatisierte Inhalte KMU-tauglich; Cloud-CMS mit KI-Features werden Standard
+3. **Programmatische DOOH-Buchung** — 40 % der DOOH-Umsätze programmatisch; erstmals Lokalkampagnen ab kleinen Budgets ohne Mediaagentur buchbar
+4. **3D-Kanal-Leuchtbuchstaben mit Halo-Effekt** — Revival bei Fassadenlettern; TikTok #lichtwerbung (771+ Posts) als aktive Community; Edelstahl + Warmweiß-Halo als Premium-Paket
+5. **KI-Design-Tools im Schilderbau-Alltag** — Adobe Firefly, Canva AI, Vectorizer.ai als Workflow-Standard für Vorentwürfe und Kundenpräsentationen
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-10-26 | KW44 | [Report](reports/2026-10-26.md) |
 | 2026-10-19 | KW43 | [Report](reports/2026-10-19.md) |
 | 2026-10-12 | KW42 | [Report](reports/2026-10-12.md) |
 | 2026-10-05 | KW41 | [Report](reports/2026-10-05.md) |
