@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-10-26](reports/2026-10-26.md)
+**Letzter Report**: [2026-11-02](reports/2026-11-02.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Chamäleon-/Color-Shift-Folien** — Folien mit 2+ Farben je nach Blickwinkel (Lila→Türkis, Smaragd→Gold) als Standout-Trend der Saison; Installer berichten von stark steigenden Anfragen
-2. **Minimalistisches Neon-Linienart** — Warmweiß und Pastell-LED-Neon überholen bunte Multi-Color-Designs; Single-Word und Continuous-Line als neue Bestseller-Kategorie
-3. **Personalisierte Event-Neon-Schilder** — Hochzeits-Neons mit Partnernamen und Datum als Standardausstattung; Herbst-Saison-Boost durch Verlobungen und Weihnachtsmärkte
-4. **Retro-Diner & Cinema-Ästhetik** — Marquee-Schriften, Art-Déco-Typografie und Vintage-Gastronomie-Look erleben Revival; ideal für Neueröffnungen und Content-Hooks
-5. **Teilfolierung als günstige Firmenwerbung** — Haube, Dach, Streifen + Logo als Einstiegspaket für KMU-Firmenwagen; aktive TikTok-Community unter #autofolierung
+1. **Weihnachts-Schaufenstergestaltung: Minimalistisch & Digital** — November startet Buchungsfenster; nachhaltige, cleane Schaufenster mit reduzierten Farben + Digital-Screen für Aktionspreise
+2. **Chamäleon Color-Shift-Folien (neue Avery-Farben)** — Avery Dennison erweitert Supreme Wrapping Film um neue Metallic-Töne; weiterhin #1 auf TikTok unter #autofolierung
+3. **App-gesteuerte & Reaktive LED-Neon-Schilder** — App-/Musik-reaktive Neons als neue Premium-Kategorie; Cyber/Synthwave-Farbverläufe im Aufwind
+4. **Matte & Satin Metallic** — Satin-Dunkelblau, Anthrazit, Olivgrün dominieren Wrap-Nachfrage; starkes TikTok-Engagement unter #schwarzeautofolierung
+5. **Personalisiertes Neon für Events & Hochzeiten** — Herbst-Verlobungssaison treibt Nachfrage; Budget 250–500 € pro Schild; Warm-Weiß und Soft-Pink als Bestseller
 
 ### Produkte
-1. **PVC-freie Werbefolien** — Tallinn-Verbot ab Jan. 2026 als regulatorisches Signal; Neschen, 3M Envision und Kavalan mit DACH-relevanten Produktlinien
-2. **KI-Contentgenerierung für Digital Signage** — Samsung AI Studio (ISE 2026) macht automatisierte Inhalte KMU-tauglich; Cloud-CMS mit KI-Features werden Standard
-3. **Programmatische DOOH-Buchung** — 40 % der DOOH-Umsätze programmatisch; erstmals Lokalkampagnen ab kleinen Budgets ohne Mediaagentur buchbar
-4. **3D-Kanal-Leuchtbuchstaben mit Halo-Effekt** — Revival bei Fassadenlettern; TikTok #lichtwerbung (771+ Posts) als aktive Community; Edelstahl + Warmweiß-Halo als Premium-Paket
-5. **KI-Design-Tools im Schilderbau-Alltag** — Adobe Firefly, Canva AI, Vectorizer.ai als Workflow-Standard für Vorentwürfe und Kundenpräsentationen
+1. **Avery Dennison Supreme Wrapping Film — Neue Metallic-Farben** — Neue Gloss-Metallic-Töne mit Goldstaub-Effekt; direkte Reaktion auf Color-Shift-Marktnachfrage
+2. **KI-gestützte Digital Signage Content-Generierung** — ISE 2026 Trend #1; KI-CMS-Abos für DACH-KMU als Managed-Service-Modell erschließbar
+3. **Epson SureColor V4000 UV-Flachbettdrucker** — April 2026 global gelauncht; Druck auf Glas/Holz/Acryl/Metall; DACH-Preise noch offen
+4. **PVC-freie Folien & Substrate** — Kavalan, Metamark PVC-free SignVinyl; B2B-Differenzierungsmerkmal für Kommunal- und Großkundenaufträge
+5. **Dioden-Lasergravierer für personalisierte Beschilderung** — Vinyl-Cutter und Laser peaken im November; Etsy/Amazon als Absatzkanal für Weihnachtsgeschäft
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-11-02 | KW45 | [Report](reports/2026-11-02.md) |
 | 2026-10-26 | KW44 | [Report](reports/2026-10-26.md) |
 | 2026-10-19 | KW43 | [Report](reports/2026-10-19.md) |
 | 2026-10-12 | KW42 | [Report](reports/2026-10-12.md) |
