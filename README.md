@@ -3,23 +3,23 @@
 Automatisch gepflegter Trend-Report für Werbetechnik im DACH-Raum.  
 Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
-**Letzter Report**: [2026-11-02](reports/2026-11-02.md)
+**Letzter Report**: [2026-11-09](reports/2026-11-09.md)
 
 ## Top 5 aktuelle Trends
 
 ### Design
-1. **Weihnachts-Schaufenstergestaltung: Minimalistisch & Digital** — November startet Buchungsfenster; nachhaltige, cleane Schaufenster mit reduzierten Farben + Digital-Screen für Aktionspreise
-2. **Chamäleon Color-Shift-Folien (neue Avery-Farben)** — Avery Dennison erweitert Supreme Wrapping Film um neue Metallic-Töne; weiterhin #1 auf TikTok unter #autofolierung
-3. **App-gesteuerte & Reaktive LED-Neon-Schilder** — App-/Musik-reaktive Neons als neue Premium-Kategorie; Cyber/Synthwave-Farbverläufe im Aufwind
-4. **Matte & Satin Metallic** — Satin-Dunkelblau, Anthrazit, Olivgrün dominieren Wrap-Nachfrage; starkes TikTok-Engagement unter #schwarzeautofolierung
-5. **Personalisiertes Neon für Events & Hochzeiten** — Herbst-Verlobungssaison treibt Nachfrage; Budget 250–500 € pro Schild; Warm-Weiß und Soft-Pink als Bestseller
+1. **Skandinavischer Weihnachtsminimalismus im Schaufenster** — „Light, Glass & Metallic" als Christmasworld-Leitmotiv; Naturfarben + Warmweiß ersetzen Deko-Chaos; Buchungsfenster jetzt
+2. **Satin Chrome Red & Warm-Metallic-Wrapping** — Satin Romanée Red Chrome ist das Wrap-Finish der Saison; Erdtöne (Desert Sand, Satin Bronze) als Herbst-Alternative für SUV/Transporter
+3. **Minimalist-Neon: Einzelwort, Clean-Sans, Warmweiß** — Reduktion auf ein Wort in cleaner Schrift; Gegenbewegung zum Maximalismus; starke Nachfrage in Gastro und Wohndesign
+4. **Programmatisches DOOH-Design: Kurzform-Video-Ästhetik** — VIOOH/ISM starten 784 Tankstellenscreens in DE; TikTok-Stil (vertikal, fünf Wörter max.) auf Signage-Displays
+5. **Dimensionale 3D-Leuchtbuchstaben mit RGB-Animation** — Programmierbares RGB-Halo als Upgrade auf statische Einzelbuchstaben; Hotels und Einzelhandel als Hauptabnehmer
 
 ### Produkte
-1. **Avery Dennison Supreme Wrapping Film — Neue Metallic-Farben** — Neue Gloss-Metallic-Töne mit Goldstaub-Effekt; direkte Reaktion auf Color-Shift-Marktnachfrage
-2. **KI-gestützte Digital Signage Content-Generierung** — ISE 2026 Trend #1; KI-CMS-Abos für DACH-KMU als Managed-Service-Modell erschließbar
-3. **Epson SureColor V4000 UV-Flachbettdrucker** — April 2026 global gelauncht; Druck auf Glas/Holz/Acryl/Metall; DACH-Preise noch offen
-4. **PVC-freie Folien & Substrate** — Kavalan, Metamark PVC-free SignVinyl; B2B-Differenzierungsmerkmal für Kommunal- und Großkundenaufträge
-5. **Dioden-Lasergravierer für personalisierte Beschilderung** — Vinyl-Cutter und Laser peaken im November; Etsy/Amazon als Absatzkanal für Weihnachtsgeschäft
+1. **Mimaki UJ330H-160 Hybrid-UV-Drucker (FESPA 2026)** — EDP-Award-Gewinner; Rolle + Flachbett in einem System; Mittelstands-Einstieg in UV-Druck ohne zwei Geräte
+2. **Roland EU2-1000MF UV-Flachbettdrucker** — Rigid Media bis 9,5 cm Dicke; Direktdruck auf Glas, Holz, Acryl; Launch April 2026
+3. **KI-gestützte Digital Signage Content-Systeme** — VIOOH-Partnerschaft DE; automatisiertes Scheduling, AI-Personalisierung; Managed-Service-Modell für DACH-KMU
+4. **IoT-gesteuerte LED-Weihnachtsbeleuchtung** — App-Steuerung und Dimm-Automatik als neuer gewerblicher Standard; differenziert von Baumarkt-Ware
+5. **Dioden-Lasergravierer für Weihnachts-Personalisierung** — Saisonaler Peak jetzt; Etsy/Amazon als Absatzkanal; Desktop-Laser unter 1.000 € für personalisierte Holzschilder
 
 ---
 
@@ -27,6 +27,7 @@ Läuft jeden Montag 07:00 (Europe/Berlin) als Claude Code Routine.
 
 | Datum | KW | Link |
 |-------|----|----- |
+| 2026-11-09 | KW46 | [Report](reports/2026-11-09.md) |
 | 2026-11-02 | KW45 | [Report](reports/2026-11-02.md) |
 | 2026-10-26 | KW44 | [Report](reports/2026-10-26.md) |
 | 2026-10-19 | KW43 | [Report](reports/2026-10-19.md) |
